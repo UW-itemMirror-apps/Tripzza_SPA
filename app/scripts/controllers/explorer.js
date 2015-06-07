@@ -12,6 +12,14 @@ angular.module('itemMirrorAngularDemoApp')
     // starts everything up after dropbox loads5
    $scope.animationsEnabled = true;
 
+   angular.element(document).ready(function () {
+
+      if (! localStorage.justOnce) {
+        localStorage.setItem("justOnce", "true");
+        window.location.reload();
+    }
+    });
+
   $scope.open = function (size) {
     
     var modalInstance = $modal.open({
