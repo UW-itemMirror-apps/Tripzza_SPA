@@ -8541,9 +8541,10 @@ h1, h2 {
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/C\:\/598\/Tripzza\/app\/styles\/main\.scss}line{font-family:\0000352}}
 .association.selected {
-  box-shadow: 0px 2px 3px #AAA;
+  background-color: #eaeaea;
+  box-shadow: 0px 5px 5px #AAA;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/598\/Tripzza\/app\/styles\/main\.scss}line{font-family:\0000358}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/598\/Tripzza\/app\/styles\/main\.scss}line{font-family:\0000359}}
 .association h3 {
   overflow: hidden;
   font-size: 150%;
@@ -8551,7 +8552,7 @@ h1, h2 {
   margin: 5px;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/598\/Tripzza\/app\/styles\/main\.scss}line{font-family:\0000369}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/598\/Tripzza\/app\/styles\/main\.scss}line{font-family:\0000370}}
 .scroll {
   margin-top: 10px;
   overflow: auto;
@@ -8559,102 +8560,102 @@ h1, h2 {
   height: auto;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/598\/Tripzza\/app\/styles\/main\.scss}line{font-family:\0000380}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/598\/Tripzza\/app\/styles\/main\.scss}line{font-family:\0000381}}
 textarea {
   height: 150px;
   width: 100%;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/598\/Tripzza\/app\/styles\/main\.scss}line{font-family:\0000385}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/598\/Tripzza\/app\/styles\/main\.scss}line{font-family:\0000386}}
 .nav, .pagination, .carousel, .panel-title a {
   cursor: pointer;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/598\/Tripzza\/app\/styles\/main\.scss}line{font-family:\0000387}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/598\/Tripzza\/app\/styles\/main\.scss}line{font-family:\0000388}}
 .taRt {
   padding: 20px 0 13px 0;
   text-align: right;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/598\/Tripzza\/app\/styles\/main\.scss}line{font-family:\0000391}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/598\/Tripzza\/app\/styles\/main\.scss}line{font-family:\0000392}}
 .col-md-8 .lead {
   margin-bottom: 10px !important;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/598\/Tripzza\/app\/styles\/main\.scss}line{font-family:\0000394}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/598\/Tripzza\/app\/styles\/main\.scss}line{font-family:\0000395}}
 .container .jumbotron, .container-fluid .jumbotron {
   padding: 10px 30px !important;
-  margin-bottom: 5px !important;
+  margin-bottom: 0px !important;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/598\/Tripzza\/app\/styles\/main\.scss}line{font-family:\0000398}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/598\/Tripzza\/app\/styles\/main\.scss}line{font-family:\0000399}}
 .main-wrapper {
   padding: 10px;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/598\/Tripzza\/app\/styles\/main\.scss}line{font-family:\00003101}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/598\/Tripzza\/app\/styles\/main\.scss}line{font-family:\00003102}}
 .separator-panel {
   height: 2px;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/598\/Tripzza\/app\/styles\/main\.scss}line{font-family:\00003104}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/598\/Tripzza\/app\/styles\/main\.scss}line{font-family:\00003105}}
 .bg1 {
   background-color: #e88449;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/598\/Tripzza\/app\/styles\/main\.scss}line{font-family:\00003107}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/598\/Tripzza\/app\/styles\/main\.scss}line{font-family:\00003108}}
 .bg2 {
   background-color: #ecc539;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/598\/Tripzza\/app\/styles\/main\.scss}line{font-family:\00003110}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/598\/Tripzza\/app\/styles\/main\.scss}line{font-family:\00003111}}
 .bg3 {
   background-color: #77ac54;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/598\/Tripzza\/app\/styles\/main\.scss}line{font-family:\00003113}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/598\/Tripzza\/app\/styles\/main\.scss}line{font-family:\00003114}}
 .bg4 {
   background-color: #c1514d;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/598\/Tripzza\/app\/styles\/main\.scss}line{font-family:\00003116}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/598\/Tripzza\/app\/styles\/main\.scss}line{font-family:\00003117}}
 .bg5 {
   background-color: #4b67b0;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/598\/Tripzza\/app\/styles\/main\.scss}line{font-family:\00003119}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/598\/Tripzza\/app\/styles\/main\.scss}line{font-family:\00003120}}
 .bg6 {
   background-color: #47c9d7;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/598\/Tripzza\/app\/styles\/main\.scss}line{font-family:\00003122}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/598\/Tripzza\/app\/styles\/main\.scss}line{font-family:\00003123}}
 .bg7 {
   background-color: #a5a5a5;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/598\/Tripzza\/app\/styles\/main\.scss}line{font-family:\00003126}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/598\/Tripzza\/app\/styles\/main\.scss}line{font-family:\00003127}}
 .folder img {
   height: 24px;
   width: 24px;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/598\/Tripzza\/app\/styles\/main\.scss}line{font-family:\00003130}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/598\/Tripzza\/app\/styles\/main\.scss}line{font-family:\00003131}}
 .glyphicon {
   left: 5px;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/598\/Tripzza\/app\/styles\/main\.scss}line{font-family:\00003133}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/598\/Tripzza\/app\/styles\/main\.scss}line{font-family:\00003134}}
 .tagger {
   padding: 10px 0;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/598\/Tripzza\/app\/styles\/main\.scss}line{font-family:\00003136}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/598\/Tripzza\/app\/styles\/main\.scss}line{font-family:\00003137}}
 .tagger input {
   height: 24px;
   width: 24px;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/598\/Tripzza\/app\/styles\/main\.scss}line{font-family:\00003140}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/598\/Tripzza\/app\/styles\/main\.scss}line{font-family:\00003141}}
 .gsc-search-button input {
   background-color: #337ab7 !important;
   border-color: #2e6da4 !important;

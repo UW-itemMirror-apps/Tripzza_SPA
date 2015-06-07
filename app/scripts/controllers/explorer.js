@@ -53,10 +53,13 @@ angular.module('itemMirrorAngularDemoApp')
         $scope.associations = itemMirror.associations;
         $scope.selectedAssoc = null;
        }
-
+       var delFlag;
       $scope.deleteAssoc = function(guid) {
-        itemMirror.deleteAssociation(guid).
-        then(assocScopeUpdate);
+        delFlag=confirm("Are you sure you want to DELETE?");
+        if(delFlag){
+          itemMirror.deleteAssociation(guid).
+          then(assocScopeUpdate);
+        }
       };
 
       $scope.navigate = function(guid) {

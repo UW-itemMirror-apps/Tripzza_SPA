@@ -50,7 +50,8 @@ h1, h2 {
   // The '&' symbol is because we want to OVERWRITE the same values as the
   // parent. Otherwise we won't get a change.
   &.selected {
-    box-shadow: 0px 2px 3px #AAA;
+    background-color: #eaeaea;
+    box-shadow: 0px 5px 5px #AAA;
     &:hover, &:active {
     }
   }
@@ -93,7 +94,7 @@ textarea {
 
 .container .jumbotron, .container-fluid .jumbotron {
     padding: 10px 30px !important;
-    margin-bottom: 5px !important;
+    margin-bottom: 0px !important;
 }
 .main-wrapper{
   padding: 10px;
